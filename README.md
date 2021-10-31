@@ -7,5 +7,5 @@ This is a matlab code to extract sub-aperture images from the light-field image.
 - run extract_SubApertureImage.m
 - sub-aperture images will be saved in './result/filename/'
 
-* Please note that an example image in data/ is brought from FlowerDataset (https://github.com/pratulsrinivasan/Local_Light_Field_Synthesis).
+* Please note that an example image in ./data/Flowers_8bit is brought from FlowerDataset (https://github.com/pratulsrinivasan/Local_Light_Field_Synthesis).
 
