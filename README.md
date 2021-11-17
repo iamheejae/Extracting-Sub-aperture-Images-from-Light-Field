@@ -1,4 +1,4 @@
-# Extracting-Sub-aperture-Image-of-Light-Field
+# Extracting-Sub-aperture-Images-from-Light-Field
 
 This is a matlab code to extract sub-aperture images from the light-field image. Light field cameras capture both spatial and angular resolution. The number of lenslets defines the angular resolution; The number of pixels behind each lenslet gives the spatial resolution.
 
